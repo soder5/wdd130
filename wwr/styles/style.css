@@ -4,25 +4,25 @@
         margin:0 auto ;
     }
 
-    #nav a {
+    nav a {
         text-align: center;
 
     }
 
-    #hero-msg > h1, #hero-msg > h4 {
+    hero-msg > h1, hero-msg > h4 {
         text-align: center;
     }
-    #button-box {
+    button-box {
         text-align: center;
     }
-    #main section {
+    main section {
         text-align: center;
     }
-    #background {
+    background {
         height: 725px;
 
     }
-    #body {
+    body {
         background-color: #7ebdc2;
     }
 
