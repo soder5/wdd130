@@ -5,8 +5,8 @@
 
 }
 .red1 { 
-  width: 100px; 
-  height: 100px; 
+  width: max-content; 
+  height: max-content; 
   background-color: red; 
 
 } 
