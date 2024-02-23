@@ -61,7 +61,8 @@ h2 {
     margin: 0;
 }
 header {
-    background-color: #f3dfa2;
+    background-color: #f3dfa2
+    ;
 }
 nav a:hover {
     background-color: #f3dfa2;
@@ -130,6 +131,8 @@ footer p a:hover {
 }
 #logo_link {
     padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 footer .social img {
     padding-top: 15px;
